@@ -29,7 +29,7 @@ Dessa forma, foi possível relacionar os conteúdos estudados em aula com situa�
 
 ## ✅ BOM exemplo — Valorant
 
-🌐 **Site:** [https://www.playvalorant.com](https://www.playvalorant.com)
+🌐 **Site:** - [Valorant — Site Oficial](https://www.playvalorant.com)
 
 O site oficial de **Valorant** foi escolhido como exemplo positivo por apresentar uma identidade visual forte e uma boa aplicação de conceitos de **contraste, hierarquia visual, tipografia e paleta de cores**.
 
@@ -85,7 +85,7 @@ Além disso, algumas partes utilizam fontes muito pequenas, dificultando a leitu
 
 # ❌ Exemplo RUIM — Save Walter White
 
-🌐 **Site:** [http://www.savewalterwhite.com/](http://www.savewalterwhite.com/)
+🌐 **Site:** [Save Walter White](http://www.savewalterwhite.com/)
 
 O site **Save Walter White** foi escolhido como exemplo negativo por apresentar diversos problemas relacionados à **legibilidade, contraste, tipografia, organização e hierarquia visual**.
 
@@ -238,11 +238,6 @@ atividade_aula3/
     ├── valorant.png
     └── save-walter-white.png
 ````
-# 🔗 Links
-
-- 🎮 [Valorant — Site Oficial](https://www.playvalorant.com)
-- 🧪 [Save Walter White](http://www.savewalterwhite.com/)
-
 ---
 
 # 📚 Atividade acadêmica
