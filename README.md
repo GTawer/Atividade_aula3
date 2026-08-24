@@ -35,6 +35,8 @@ O site oficial de **Valorant** foi escolhido como exemplo positivo por apresenta
 
 #### ▸ Preview do site
 
+---
+
 <div align="center">
   <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/vava2.png" alt="Preview do site Valorant" width="90%" />
   <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/vava1.png" alt="Preview do site Valorant" width="90%" />
@@ -92,6 +94,8 @@ O site **Save Walter White** foi escolhido como exemplo negativo por apresentar 
 
 #### ▸ Preview do site
 
+---
+
 <div align="center">
   <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/Walter.png" alt="Preview do site Save Walter White" width="90%" />
     <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/White.png" alt="Preview do site Save Walter White" width="90%" />
@@ -127,7 +131,7 @@ Isso dificulta a identificação das informações mais importantes e torna a na
 
 ---
 
-## ▸ Desvantagens
+## ▸ Vantagens
 
 #### 🎯 Objetivo
 
@@ -141,29 +145,16 @@ Dessa forma, grande parte da estética exagerada e da interface mal trabalhada f
 
 ## 🛠️ ▸ Soluções
 
-Os problemas encontrados no site **Save Walter White** poderiam ser solucionados através da aplicação de princípios básicos de **Design e UX**.
-
-### 🎨 Melhorar o contraste
-
-Utilizar cores com maior diferença entre o texto e o fundo, garantindo uma leitura mais confortável e acessível.
-
-### 🔤 Utilizar uma tipografia adequada
-
-Substituir fontes pouco legíveis por uma tipografia mais clara, mantendo tamanhos e pesos adequados para cada nível de informação.
-
-### 📐 Organizar o layout
-
-Criar uma estrutura mais organizada, utilizando alinhamento, espaçamento e hierarquia visual para separar as diferentes informações.
-
-### ✨ Reduzir a poluição visual
-
-Diminuir ou remover elementos decorativos que não contribuem para o conteúdo principal, deixando a interface mais limpa.
-
-### ♿ Melhorar a acessibilidade
-
-Garantir contraste adequado, tamanhos de fonte apropriados e uma estrutura que facilite a compreensão e navegação por diferentes usuários.
-
----
+| Site | Principal problema | Possível solução |
+| :--- | :--- | :--- |
+| Valorant | Performance pesada | Otimizar imagens, vídeos e animações |
+| Valorant | Problemas pontuais de acessibilidade | Melhorar contraste e tamanho das fontes |
+| Valorant | Excesso de animações | Reduzir movimentos desnecessários |
+| Save Walter White | Contraste ruim | Utilizar cores com maior contraste |
+| Save Walter White | Poluição visual | Reduzir elementos decorativos |
+| Save Walter White | Tipografia inadequada | Utilizar fontes mais legíveis |
+| Save Walter White | Layout desorganizado | Aplicar alinhamento e hierarquia visual |
+| Save Walter White | Acessibilidade prejudicada | Melhorar contraste, tamanho e organização dos textos |
 
 ## ◆ Comparação
 
