@@ -1,6 +1,6 @@
 # 🎨 Atividade Aula 3 — Tipografia e Cores na Prática
 
-> *"Cores, tipografia e organização também fazem parte da experiência."* 🎨💻
+> *"Um site ruim também chama atenção, atenção ruim."* 
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge&logo=github)
 ![Disciplina](https://img.shields.io/badge/Disciplina-Linguagem%20de%20Marcação-0078D4?style=for-the-badge)
