@@ -42,7 +42,7 @@ O site oficial de **Valorant** foi escolhido como exemplo positivo por apresenta
 
 ---
 
-## 👍 Vantagens
+## Vantagens
 
 ### 🎯 Contraste perfeito
 
@@ -66,7 +66,7 @@ A utilização de uma **tipografia sem serifa e de aparência geométrica**, jun
 
 ---
 
-## 👎 Desvantagens
+## Desvantagens
 
 ### ⚡ Performance pesada
 
@@ -90,15 +90,16 @@ Além disso, algumas partes utilizam fontes muito pequenas, dificultando a leitu
 
 O site **Save Walter White** foi escolhido como exemplo negativo por apresentar diversos problemas relacionados à **legibilidade, contraste, tipografia, organização e hierarquia visual**.
 
-### 🖼️ Preview do site
+### Preview do site
 
 <div align="center">
   <img src="./img/save-walter-white.png" alt="Preview do site Save Walter White" width="90%" />
+    <img src="./img/save-walter-white.png" alt="Preview do site Save Walter White" width="90%" />
 </div>
 
 ---
 
-## 👎 Desvantagens
+## Desvantagens
 
 ### 👀 Péssimo contraste
 
