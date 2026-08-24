@@ -36,8 +36,9 @@ O site oficial de **Valorant** foi escolhido como exemplo positivo por apresenta
 ### Preview do site
 
 <div align="center">
-  <img src="./img/valorant.png" alt="Preview do site Valorant" width="90%" />
-</div>
+  <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/vava2.png" alt="Preview do site Valorant" width="90%" />
+  <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/vava1.png" alt="Preview do site Valorant" width="90%" />
+    </div>
 
 ---
 
@@ -214,16 +215,6 @@ Garantir contraste adequado, tamanhos de fonte apropriados e uma estrutura que f
 
 ---
 
-# 🛠️ Tecnologias e ferramentas utilizadas
-
-- **Markdown** — criação e organização deste README;
-- **GitHub** — hospedagem e organização do projeto;
-- **Visual Studio Code** — edição dos arquivos;
-- **Navegador Web** — pesquisa e análise dos sites;
-- **HTML/CSS** — conceitos relacionados à estrutura e apresentação das páginas web.
-
----
-
 # 📁 Estrutura do projeto
 
 ```text
@@ -249,18 +240,14 @@ A proposta foi aplicar os conhecimentos estudados em aula através da análise d
 A pesquisa permitiu compreender que uma boa interface não depende apenas de sua aparência, mas também da forma como os elementos são organizados para proporcionar **clareza, legibilidade e uma boa experiência ao usuário**.
 
 ---
-
-# 👾 Autoria
+## 👾 Autoria
 
 * **Aluno:** Gabriel de Araujo Torres (Nº 08)
 * **Disciplina:** Linguagem de Marcação (LIMA)
-* **Componente:** Tipografia e Cores
 * **Professores:** Raul Porto Lopes e Andre Luis Denani
-* **Repositório:** `atividade_aula3`
-* **Data de entrega:** 18/08/2026
+* **Data:** 11/08/2026
 
 #### Projeto desenvolvido no SENAI A. Jacob Lafer.
-
 ---
 
 <p align="center">
