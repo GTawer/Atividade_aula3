@@ -38,8 +38,8 @@ O site oficial de **Valorant** foi escolhido como exemplo positivo por apresenta
 ---
 
 <div align="center">
+   <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/vava1.png" alt="Preview do site Valorant" width="90%" />
   <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/vava2.png" alt="Preview do site Valorant" width="90%" />
-  <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/vava1.png" alt="Preview do site Valorant" width="90%" />
     </div>
 
 ---
@@ -189,41 +189,6 @@ Dessa forma, grande parte da estética exagerada e da interface mal trabalhada f
 
 ---
 
-### 🖼️ Galeria
-
-### 🎮 Valorant
-
-<div align="center">
-  <img src="./img/valorant.png" alt="Site Valorant" width="90%" />
-</div>
-
-<br>
-
-### 🧪 Save Walter White
-
-<div align="center">
-  <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/Walter.png" alt="Site Save Walter White" width="90%" />
-  <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/White.png" alt="Site Save Walter White" width="90%" />
-</div>
-
----
-
-## 📁 Estrutura do projeto
-
-```text
-atividade_aula3/
-│
-├── README.md
-│
-├── documento/
-│   └── atividade_aula3.pdf
-│
-└── img/
-    ├── valorant.png
-    └── save-walter-white.png
-````
----
-
 ## 📚 Atividade acadêmica
 
 Esta atividade faz parte das atividades práticas do componente de **Tipografia e Cores**, pertencente à unidade curricular de **Linguagem de Marcação (LIMA)**.
@@ -235,9 +200,8 @@ A pesquisa permitiu compreender que uma boa interface não depende apenas de sua
 ---
 ## 👾 Autoria
 
-* **Aluno:** Gabriel de Araujo Torres (Nº 08)
-* **Disciplina:** Linguagem de Marcação (LIMA)
-* **Professores:** Raul Porto Lopes e Andre Luis Denani
+* **Alunos:** Gabriel de Araujo Torres (Nº 08)
+* **Disciplina:** Linguagem de Marcação (LIMA) - `Desenvolvimento de Sistemas`
 * **Data:** 11/08/2026
 
 #### Projeto desenvolvido no SENAI A. Jacob Lafer.
