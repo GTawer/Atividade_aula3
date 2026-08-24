@@ -25,7 +25,7 @@ Dessa forma, foi possível relacionar os conteúdos estudados em aula com situa�
 
 ---
 
-# 🔎 Sites analisados
+## 🔎 Sites analisados
 
 ## ✅ BOM exemplo — Valorant
 
@@ -84,7 +84,7 @@ Além disso, algumas partes utilizam fontes muito pequenas, dificultando a leitu
 
 ---
 
-# ❌ Exemplo RUIM — Save Walter White
+## ❌ Exemplo RUIM — Save Walter White
 
 🌐 **Site:** [Save Walter White](http://www.savewalterwhite.com/)
 
@@ -127,7 +127,7 @@ Isso dificulta a identificação das informações mais importantes e torna a na
 
 ---
 
-## 👍 Vantagem
+## Vantagem
 
 ### 🎯 Objetivo
 
@@ -139,7 +139,7 @@ Dessa forma, grande parte da estética exagerada e da interface mal trabalhada f
 
 ---
 
-# 🛠️ Como resolver os problemas?
+## 🛠️ Como resolver os problemas?
 
 Os problemas encontrados no site **Save Walter White** poderiam ser solucionados através da aplicação de princípios básicos de **Design e UX**.
 
@@ -165,7 +165,7 @@ Garantir contraste adequado, tamanhos de fonte apropriados e uma estrutura que f
 
 ---
 
-# 📊 Comparação dos sites
+## 📊 Comparação dos sites
 
 | Característica | ✅ Valorant | ❌ Save Walter White |
 | :--- | :--- | :--- |
@@ -181,7 +181,7 @@ Garantir contraste adequado, tamanhos de fonte apropriados e uma estrutura que f
 
 ---
 
-# 📂 Detalhes da atividade
+## 📂 Detalhes da atividade
 
 | Item | Descrição | Status |
 | :--- | :--- | :--- |
@@ -198,9 +198,9 @@ Garantir contraste adequado, tamanhos de fonte apropriados e uma estrutura que f
 
 ---
 
-# 🖼️ Galeria
+### 🖼️ Galeria
 
-## 🎮 Valorant
+### 🎮 Valorant
 
 <div align="center">
   <img src="./img/valorant.png" alt="Site Valorant" width="90%" />
@@ -208,7 +208,7 @@ Garantir contraste adequado, tamanhos de fonte apropriados e uma estrutura que f
 
 <br>
 
-## 🧪 Save Walter White
+### 🧪 Save Walter White
 
 <div align="center">
   <img src="./img/save-walter-white.png" alt="Site Save Walter White" width="90%" />
@@ -216,7 +216,7 @@ Garantir contraste adequado, tamanhos de fonte apropriados e uma estrutura que f
 
 ---
 
-# 📁 Estrutura do projeto
+## 📁 Estrutura do projeto
 
 ```text
 atividade_aula3/
@@ -232,7 +232,7 @@ atividade_aula3/
 ````
 ---
 
-# 📚 Atividade acadêmica
+## 📚 Atividade acadêmica
 
 Esta atividade faz parte das atividades práticas do componente de **Tipografia e Cores**, pertencente à unidade curricular de **Linguagem de Marcação (LIMA)**.
 
