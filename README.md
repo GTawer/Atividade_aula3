@@ -3,7 +3,6 @@
 > *"Um site ruim também chama atenção, atenção ruim."* 
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge&logo=github)
-![Disciplina](https://img.shields.io/badge/Disciplina-Linguagem%20de%20Marcação-0078D4?style=for-the-badge)
 ![Tema](https://img.shields.io/badge/Tema-Tipografia%20%26%20Cores-FF69B4?style=for-the-badge)
 
 Este repositório apresenta uma **atividade de pesquisa sobre Tipografia, Cores e Design de Interfaces**, desenvolvida como parte das atividades acadêmicas do curso Técnico em Desenvolvimento de Sistemas do **SENAI**.
@@ -46,13 +45,13 @@ O site oficial de **Valorant** foi escolhido como exemplo positivo por apresenta
 
 ## ▸ Vantagens
 
-#### 🎯 Contraste perfeito
+#### 🎯 » Contraste perfeito
 
 O texto claro sobre o fundo escuro, combinado com destaques em vermelho, chama a atenção para os principais elementos e botões sem cansar a vista.
 
 O uso de **texto branco sobre fundo escuro**, junto aos detalhes em vermelho vibrante, contribui para uma boa identificação dos elementos importantes da página.
 
-#### 📐 Hierarquia visual
+#### 📐 » Hierarquia visual
 
 A hierarquia visual é clara.
 
@@ -60,7 +59,7 @@ A hierarquia visual é clara.
 
 Isso facilita a navegação e permite que o usuário encontre as informações mais importantes rapidamente.
 
-#### 🎨 Paleta harmônica
+#### 🎨 » Paleta harmônica
 
 A combinação de cores utilizada é consistente com a identidade visual do jogo.
 
@@ -70,13 +69,13 @@ A utilização de uma **tipografia sem serifa e de aparência geométrica**, jun
 
 ## ▸ Desvantagens
 
-#### ⚡ Performance pesada
+#### ⚡ » Performance pesada
 
 O site utiliza muitos **vídeos em loop, animações e imagens em alta resolução**.
 
 Em conexões Wi-Fi mais fracas ou em dispositivos de entrada, isso pode aumentar o tempo de carregamento e também o consumo de bateria e recursos do dispositivo.
 
-#### ♿ Acessibilidade
+#### ♿ » Acessibilidade
 
 Embora o design seja bonito e estilizado de forma "gamer", algumas seções secundárias apresentam problemas de contraste.
 
@@ -97,33 +96,32 @@ O site **Save Walter White** foi escolhido como exemplo negativo por apresentar 
 ---
 
 <div align="center">
-  <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/Walter.png" alt="Preview do site Save Walter White" width="90%" />
-    <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/White.png" alt="Preview do site Save Walter White" width="90%" />
+ <img width="350" height="600" alt="Preview do site do Walter White" src="https://github.com/user-attachments/assets/087029af-389f-4aed-9582-7b8f6ab55fd9" />
 </div>
 
 ---
 
 ## ▸ Desvantagens
 
-#### 👀 Péssimo contraste
+#### » Péssimo contraste
 
 A utilização de **texto amarelo-esverdeado sobre um fundo verde brilhante** prejudica bastante a legibilidade.
 
 O baixo contraste dificulta a leitura das informações e pode causar desconforto visual.
 
-#### ✨ Fundo poluído
+#### ✨ » Fundo poluído
 
 O fundo possui um padrão de **estrelas brilhantes**, que acaba chamando muita atenção.
 
 Esse excesso de elementos visuais pode distrair o usuário e dificultar a concentração no conteúdo principal.
 
-#### 🔤 Tipografia e estilo
+#### 🔤 » Tipografia e estilo
 
 O site utiliza uma fonte com aparência semelhante à **Comic Sans**, além de bordas e elementos visuais considerados ultrapassados.
 
 Essas escolhas contribuem para uma aparência pouco profissional quando analisadas de acordo com padrões modernos de design de interfaces.
 
-#### 📐 Layout
+#### 📐 » Layout
 
 As imagens e os textos aparecem distribuídos sem um alinhamento consistente ou uma hierarquia visual clara.
 
@@ -133,7 +131,7 @@ Isso dificulta a identificação das informações mais importantes e torna a na
 
 ## ▸ Vantagens
 
-#### 🎯 Objetivo
+#### 🎯 » Objetivo
 
 Apesar dos problemas apresentados, o site possui uma vantagem relacionada ao seu propósito.
 
@@ -155,6 +153,8 @@ Dessa forma, grande parte da estética exagerada e da interface mal trabalhada f
 | Save Walter White | Tipografia inadequada | Utilizar fontes mais legíveis |
 | Save Walter White | Layout desorganizado | Aplicar alinhamento e hierarquia visual |
 | Save Walter White | Acessibilidade prejudicada | Melhorar contraste, tamanho e organização dos textos |
+   
+---
 
 ## ◆ Comparação
 
@@ -205,7 +205,12 @@ A pesquisa permitiu compreender que uma boa interface não depende apenas de sua
 * **Data:** 11/08/2026
 
 #### Projeto desenvolvido no SENAI A. Jacob Lafer.
+
 ---
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/hz5_8uJK_MwAAAAC/scott-pilgrim-scott-pilgrim-vs-the-world.gif" width="200" height="auto" />
+</p>
 
 <p align="center">
   🎨 <strong>Tipografia • Cores • Design • UX</strong> 🎨
