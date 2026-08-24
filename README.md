@@ -12,7 +12,7 @@ A atividade teve como objetivo analisar dois sites disponíveis na web: um que a
 
 ---
 
-## 🎨 Descrição e objetivo da atividade
+## ◈ Descrição e objetivo
 
 A proposta da atividade foi pesquisar na web:
 
@@ -25,15 +25,15 @@ Dessa forma, foi possível relacionar os conteúdos estudados em aula com situa�
 
 ---
 
-## 🔎 Sites analisados
+## 🔎▸ Sites analisados
 
-## ✅ BOM exemplo — Valorant
+## ◆ Exemplo BOM — Valorant
 
 🌐 **Site:** - [Valorant — Site Oficial](https://www.playvalorant.com)
 
 O site oficial de **Valorant** foi escolhido como exemplo positivo por apresentar uma identidade visual forte e uma boa aplicação de conceitos de **contraste, hierarquia visual, tipografia e paleta de cores**.
 
-### Preview do site
+#### ▸ Preview do site
 
 <div align="center">
   <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/vava2.png" alt="Preview do site Valorant" width="90%" />
@@ -42,15 +42,15 @@ O site oficial de **Valorant** foi escolhido como exemplo positivo por apresenta
 
 ---
 
-## Vantagens
+## ▸ Vantagens
 
-### 🎯 Contraste perfeito
+#### 🎯 Contraste perfeito
 
 O texto claro sobre o fundo escuro, combinado com destaques em vermelho, chama a atenção para os principais elementos e botões sem cansar a vista.
 
 O uso de **texto branco sobre fundo escuro**, junto aos detalhes em vermelho vibrante, contribui para uma boa identificação dos elementos importantes da página.
 
-### 📐 Hierarquia visual
+#### 📐 Hierarquia visual
 
 A hierarquia visual é clara.
 
@@ -58,7 +58,7 @@ A hierarquia visual é clara.
 
 Isso facilita a navegação e permite que o usuário encontre as informações mais importantes rapidamente.
 
-### 🎨 Paleta harmônica
+#### 🎨 Paleta harmônica
 
 A combinação de cores utilizada é consistente com a identidade visual do jogo.
 
@@ -66,15 +66,15 @@ A utilização de uma **tipografia sem serifa e de aparência geométrica**, jun
 
 ---
 
-## Desvantagens
+## ▸ Desvantagens
 
-### ⚡ Performance pesada
+#### ⚡ Performance pesada
 
 O site utiliza muitos **vídeos em loop, animações e imagens em alta resolução**.
 
 Em conexões Wi-Fi mais fracas ou em dispositivos de entrada, isso pode aumentar o tempo de carregamento e também o consumo de bateria e recursos do dispositivo.
 
-### ♿ Acessibilidade
+#### ♿ Acessibilidade
 
 Embora o design seja bonito e estilizado de forma "gamer", algumas seções secundárias apresentam problemas de contraste.
 
@@ -84,42 +84,42 @@ Além disso, algumas partes utilizam fontes muito pequenas, dificultando a leitu
 
 ---
 
-## ❌ Exemplo RUIM — Save Walter White
+## ◇ Exemplo RUIM — Save Walter White
 
 🌐 **Site:** [Save Walter White](http://www.savewalterwhite.com/)
 
 O site **Save Walter White** foi escolhido como exemplo negativo por apresentar diversos problemas relacionados à **legibilidade, contraste, tipografia, organização e hierarquia visual**.
 
-### Preview do site
+#### ▸ Preview do site
 
 <div align="center">
-  <img src="./img/save-walter-white.png" alt="Preview do site Save Walter White" width="90%" />
-    <img src="./img/save-walter-white.png" alt="Preview do site Save Walter White" width="90%" />
+  <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/Walter.png" alt="Preview do site Save Walter White" width="90%" />
+    <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/White.png" alt="Preview do site Save Walter White" width="90%" />
 </div>
 
 ---
 
-## Desvantagens
+## ▸ Desvantagens
 
-### 👀 Péssimo contraste
+#### 👀 Péssimo contraste
 
 A utilização de **texto amarelo-esverdeado sobre um fundo verde brilhante** prejudica bastante a legibilidade.
 
 O baixo contraste dificulta a leitura das informações e pode causar desconforto visual.
 
-### ✨ Fundo poluído
+#### ✨ Fundo poluído
 
 O fundo possui um padrão de **estrelas brilhantes**, que acaba chamando muita atenção.
 
 Esse excesso de elementos visuais pode distrair o usuário e dificultar a concentração no conteúdo principal.
 
-### 🔤 Tipografia e estilo
+#### 🔤 Tipografia e estilo
 
 O site utiliza uma fonte com aparência semelhante à **Comic Sans**, além de bordas e elementos visuais considerados ultrapassados.
 
 Essas escolhas contribuem para uma aparência pouco profissional quando analisadas de acordo com padrões modernos de design de interfaces.
 
-### 📐 Layout
+#### 📐 Layout
 
 As imagens e os textos aparecem distribuídos sem um alinhamento consistente ou uma hierarquia visual clara.
 
@@ -127,9 +127,9 @@ Isso dificulta a identificação das informações mais importantes e torna a na
 
 ---
 
-## Vantagem
+## ▸ Desvantagens
 
-### 🎯 Objetivo
+#### 🎯 Objetivo
 
 Apesar dos problemas apresentados, o site possui uma vantagem relacionada ao seu propósito.
 
@@ -139,7 +139,7 @@ Dessa forma, grande parte da estética exagerada e da interface mal trabalhada f
 
 ---
 
-## 🛠️ Como resolver os problemas?
+## 🛠️ ▸ Soluções
 
 Os problemas encontrados no site **Save Walter White** poderiam ser solucionados através da aplicação de princípios básicos de **Design e UX**.
 
@@ -165,7 +165,7 @@ Garantir contraste adequado, tamanhos de fonte apropriados e uma estrutura que f
 
 ---
 
-## 📊 Comparação dos sites
+## ◆ Comparação
 
 | Característica | ✅ Valorant | ❌ Save Walter White |
 | :--- | :--- | :--- |
@@ -211,7 +211,8 @@ Garantir contraste adequado, tamanhos de fonte apropriados e uma estrutura que f
 ### 🧪 Save Walter White
 
 <div align="center">
-  <img src="./img/save-walter-white.png" alt="Site Save Walter White" width="90%" />
+  <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/Walter.png" alt="Site Save Walter White" width="90%" />
+  <img src="https://github.com/GTawer/Atividade_aula3/blob/main/Atv%20Tipografia%20e%20Cores/img/White.png" alt="Site Save Walter White" width="90%" />
 </div>
 
 ---
